@@ -546,7 +546,7 @@ form label {
 form input {
   color: #000;
   padding: 10px 0px;
-  margin-bottom: 28px;
+  margin-bottom: 30px;
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
@@ -574,7 +574,7 @@ form .capture_checkbox label {
 }
 
 .capture_form_item {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 .capture_form_item:hover label {
